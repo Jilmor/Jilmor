@@ -19,8 +19,9 @@
   <a href = "mailto:jilmor@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jilmor-deshaia-felippe-junior-b145311bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://xboxgamertag.com/search/jilmor" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a> 
-  </div>
   ![Snake animation](https://github.com/Jilmor/Jilmor/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  
   ##
 - Estudando Desenvolvimento web e Analise de Dados
 - Contato pelo E-mail: jilmor@hotmail.com
